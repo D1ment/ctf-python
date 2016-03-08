@@ -1,9 +1,10 @@
-<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">
-CTF_python
+<html><head></head><body>
+<pre style="word-wrap: break-word; white-space: pre-wrap;">
+CTF_python</pre>
 ===========
 
 
-&lt;u&gt;brutoforce&lt;/u&gt; - Переборы, словари и т.д.&lt;br&gt;
+<u>brutoforce</u> - Переборы, словари и т.д.<br>
 
 
-</pre></body></html>
+</body></html>
