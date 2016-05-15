@@ -13,10 +13,11 @@ def morze_dec(text_dec):
 	return js_new['decoded']
 
 #######################################################
-#Podstanovka decod
-
-def podst_dec(text_dec):
-	
+#Zamena decod
+def zamen_dec(text_dec):
+	x = {'a':3, 'd':5, 'g':8}
+	for key in x.keys():
+		text = text_dec.replace(key, str(x[key]))
 
 
 
